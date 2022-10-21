@@ -1,0 +1,77 @@
+body {
+    background-color: black;
+    margin: 0%;
+    padding: 0%;
+}
+
+.back {
+    width: 800px;
+    height: 450px;
+    background-color: white;
+}
+
+.lap_right_asagi {
+    width: 800px;
+    height: 450px;
+    background-color: blue;
+}
+
+.lap_right_ag {
+    width: 800px;
+    height: 250px;
+    background-color: white;
+}
+
+.lap_right_yuxari {
+    width: 800px;
+    height: 245px;
+    background-color: blue;
+}
+
+.orta_background {
+    width: 550px;
+    height: 450px;
+    background-color: white;
+    z-index: 2;
+}
+
+.orta_asgi {
+    width: 545px;
+    height: 450px;
+    background-color: white;
+    z-index: 2;
+}
+
+.orta_ust {
+    width: 545px;
+    height: 450px;
+    background-color: blue;
+}
+
+.lapsol_asagi {
+    width: 300px;
+    height: 450px;
+    background-color: white;
+    z-index: 2;
+}
+
+.lapsol_asagi_goy {
+    width: 295px;
+    height: 450px;
+    background-color: blue;
+    z-index: 2;
+}
+
+.lapsol_orta_ag {
+    width: 300px;
+    height: 250px;
+    background-color: white;
+    z-index: 2;
+}
+
+.lapsol_yuxari_goy {
+    width: 295px;
+    height: 245px;
+    background-color: blue;
+    z-index: 2;
+}
